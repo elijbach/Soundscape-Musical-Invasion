@@ -1,0 +1,3 @@
+In this commit, I included the background noise for the preliminary dialogue on the street that leads up to the alien crash.
+I also included the sound of the ship crashing. Towards the end of the file I added the broadcasts that I recorded from my friend to 
+use. I edited the background noise out of them and selected the most effective ones. I also added in my word document for my script.
